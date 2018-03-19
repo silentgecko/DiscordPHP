@@ -1,6 +1,6 @@
 {
-  "name": "team-reflex/discord-php",
-  "description": "An unofficial API to interact with the voice and text service Discord.",
+  "name": "silentgecko/discord-php",
+  "description": "An unofficial API to interact with the voice and text service Discord. Forked from team-reflex/discord-php",
   "license": "MIT",
   "authors": [
     {
@@ -10,10 +10,14 @@
     {
       "name": "Aaron Scherer",
       "email": "aequasi@gmail.com"
+    },
+    {
+      "name": "René Welbers",
+      "email": "info@wereco.de"
     }
   ],
   "require": {
-    "php": "^5.6|^7.0",
+    "php": "^7.0",
     "cache/array-adapter": "^0.4.0",
     "guzzlehttp/guzzle": "~5.3|~6.0",
     "illuminate/support": "^4.0|^5.0",
